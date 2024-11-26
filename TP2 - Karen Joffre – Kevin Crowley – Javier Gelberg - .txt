@@ -1,0 +1,14 @@
+Tp2 - Aplicaciones Híbridas
+--------------------------------------------------------------------
+Profesor: Victor Villafañe
+Alumnos: Karen Joffre – Kevin Crowley – Javier Gelberg
+--------------------------------------------------------------------
+Se entrega:
+1. Código: Subir el código completo de la aplicación a un repositorio de GitHub. 
+	- https://github.com/jfgelberg/entrega_tp2
+	
+	
+2. Documento PDF: Incluye un documento explicativo en PDF con las siguientes secciones: 
+	- Explicación de la arquitectura de la aplicación. 
+	- Capturas de pantalla de las principales funcionalidades. 
+	- Explicación de los procesos de autenticación y autorización con JWT.
